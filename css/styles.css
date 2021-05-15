@@ -49,3 +49,11 @@ a, a:hover {
       border: solid #5637DD;
       
   }
+
+  .modal-body {
+      color: black;
+  }
+
+  .reservebutton {
+      align-self: right;
+  }
