@@ -24,7 +24,15 @@ header h2 {
   background-color: #901CAD; }
 
 .carousel {
-  border: solid #5637dd; }
+  border: solid #5637dd;
+  margin-bottom: 20px;
+  margin-top: 20px; }
 
 .carousel-caption {
   background-color: rgba(0, 0, 0, 0.5); }
+
+#carouselButton {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 100; }
